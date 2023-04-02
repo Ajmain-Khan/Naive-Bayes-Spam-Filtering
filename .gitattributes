@@ -1,2 +1,2 @@
 *.* linguist-language=Java
-src/main/data/* binary
+data/* binary
