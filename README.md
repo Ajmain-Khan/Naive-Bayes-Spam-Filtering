@@ -1,5 +1,5 @@
 # Naive-Bayes-Spam-Filtering
-An implementation of the naive bayes classifier algorithm in an application to detect and filter spam and stop words.
+A Java implementation of the naive bayes classifier algorithm in an application to detect and filter spam and stop words.
 
 ## Interface Features
 - A visual representation of the accuracy and precision
